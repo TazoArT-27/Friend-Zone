@@ -1,0 +1,9 @@
+.zone-container{
+    display:flex;
+}
+.friend-list{
+    width: 70%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-right: 5px solid rgb(159, 220, 245);
+}
